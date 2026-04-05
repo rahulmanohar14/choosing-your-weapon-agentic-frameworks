@@ -9,7 +9,7 @@ INFO 7375: Prompt Engineering for Generative AI | Northeastern University
 
 ## Video
 
-▶️ [Watch the 10-minute explainer on YouTube](https://youtu.be/rpvxvvI3Kkw)
+▶️ [Watch the explainer on YouTube](https://youtu.be/rpvxvvI3Kkw)
 
 The video follows the Explain → Show → Try structure required by the assignment rubric.
 
